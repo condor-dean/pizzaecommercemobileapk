@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: fflEy+jJoKCceXHF1/wnbOsNeNQ=
+
+Name: res/drawable/splash_portrait.png
+SHA1-Digest: E+NeJKE+NFGz3gi++zEKQ6XzJeM=
+
+Name: res/layout/dialog.xml
+SHA1-Digest: IwHnY2UiGOCWiYpTErqbAx8imB0=
+
+Name: resources.arsc
+SHA1-Digest: M2HV6crikX4GLoTFgB7CQOJGRqg=
+
+Name: classes.dex
+SHA1-Digest: yOLMeT4HxvIcoNVSLqgBZPtHEgQ=
+
+Name: res/drawable/button.xml
+SHA1-Digest: DSiVjcy6Lwe1Qi0XnB7k/KQ/SOk=
+
+Name: res/layout/error_dialog.xml
+SHA1-Digest: YfUak5j3E15DP2dGIc6LyD74uJc=
+
+Name: res/drawable/progress.xml
+SHA1-Digest: CgXrr/gmXoXM4EeZvgxgiCNJvRo=
+
+Name: res/menu/main.xml
+SHA1-Digest: Mt+VKWFRWN2BTpDijdRAbBMkOCc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: We+aTrtTbpJ7EJexQoquyi6uPFM=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: qjBeL737sMVL6cljDVQ/nc0oWVY=
+
+Name: res/drawable/bgdialog.xml
+SHA1-Digest: X8Rt+D6MelAHt6FOCYIbC6KPsZ8=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: sw4+ztgv9BWYCueXiXvaXEkmyNE=
+
+Name: res/drawable/splash_land.png
+SHA1-Digest: Q0ddqqhwRMGiLBbgWWQL7Q3g5As=
+
+Name: res/drawable/main_header_selector.xml
+SHA1-Digest: eYbzAZwCn+YVWxdEF+otrdD/5VQ=
+
+Name: res/drawable/yellowprogress.xml
+SHA1-Digest: Oicmm13rC7WczKuY2EZt+LiGztw=
+
